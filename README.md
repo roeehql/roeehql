@@ -1,16 +1,42 @@
-### Hi there 👋
+## 소개
 
-<!--
-**roeehql/roeehql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 안녕하세요 프론트엔드 개발자 강태이입니다.
 
-Here are some ideas to get you started:
+- UI/UX에 대한 관심으로 프론트엔드 개발을 학습하기 시작했습니다.
+- 실생활과 관련있는 서비스를 구현하는 일에 관심이 있습니다.
+- 최근엔 함수형 프로그래밍과 테스트 코드를 학습 중입니다.
+- 긍정적이고 시원시원한 성격으로 웃음이 많습니다. 즐겁게 일하고 싶습니다!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### 사용 언어 및 환경
+
+- React, Javascript, Typescript, NextJS, Redux(toolkit, thunk)
+- HTML5, CSS3, SASS, SCSS, TailwindCSS
+- Window, VScode, Git(Git-hub, Actions) 
+
+<br />
+
+### 프로젝트
+
+1. [애견 미용 예약 서비스](https://github.com/roeehql/petSalonBooking)
+2. [여행 경비 기록 서비스](https://github.com/roeehql/pigONtrip)
+
+<br />
+
+### 학습 내역
+
+[네이버 블로그](https://blog.naver.com/eehqlnote)
+
+<br />
+
+### 정보
+
+- 경기도 광명시 거주
+- kangnimell@gmail.com
+- roeehql@naver.com
+
+<br />
+
+#### 감사합니다!
+- 구직 중입니다. 편하게 연락주세요!
