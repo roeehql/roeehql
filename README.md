@@ -20,7 +20,8 @@
 ### 프로젝트
 
 1. [애견 미용 예약 서비스](https://github.com/roeehql/petSalonBooking)
-2. [여행 경비 기록 서비스](https://github.com/roeehql/pigONtrip)
+2. [애견 미용 예약 서비스 (매장용)](https://github.com/roeehql/petSalonAdmin)
+3. [여행 경비 기록 서비스](https://github.com/roeehql/pigONtrip)
 
 <br />
 
@@ -32,7 +33,10 @@
 
 ### 정보
 
-- 경기도 광명시 거주
+[이력서:노션으로 연결됩니다.](https://www.notion.so/9b699297ec5c4e7a93a9a0d7d9e26f69?pvs=4)
+
+<br />
+
 - kangnimell@gmail.com
 - roeehql@naver.com
 
