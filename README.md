@@ -33,7 +33,7 @@
 
 ### 정보
 
-[이력서:노션으로 연결됩니다.](https://www.notion.so/9b699297ec5c4e7a93a9a0d7d9e26f69?pvs=4)
+[이력서:노션으로 연결됩니다.](https://bubble-account-b8f.notion.site/9b699297ec5c4e7a93a9a0d7d9e26f69?pvs=4)
 
 <br />
 
